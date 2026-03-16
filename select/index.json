@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "I Miss You",
+  "base_artist": "blink-182",
+  "createdAt": "2026-03-16T04:57:04.067232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/01_I_Miss_You_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/02_I_Miss_You_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/03_I_Miss_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/04_I_Miss_You_Haddaway.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Miss You - Radio Edit",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/05_I_Miss_You_-_Radio_Edit_Haddaway.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Miss You (Dobie Rub Part One) - Sunshine Mix",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_I_Miss_You_(Dobie_Rub_Part_One)_-_Sunshine_Mix_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_I_Miss_You_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_I_Miss_You_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_I_Miss_You_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Miss You (Dobie's Rub Part 1 [Sunshine Mix])",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/10_I_Miss_You_(Dobie's_Rub_Part_1_[Sunshine_Mix])_Björk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Miss You (Dobie Rub Part One – Sunshine Mix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/11_I_Miss_You_(Dobie_Rub_Part_One_–_Sunshine_Mix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Miss You (Dobie's Rub Part One Sunshine)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/12_I_Miss_You_(Dobie's_Rub_Part_One_Sunshine)_Björk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Miss You (Howie B Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/13_I_Miss_You_(Howie_B_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh How I Miss You",
+      "artist": "Broadcast",
+      "has_synced": true,
+      "path": "select/14_Oh_How_I_Miss_You_Broadcast.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Miss You Like I Miss You",
+      "artist": "Chad VanGaalen",
+      "has_synced": false,
+      "path": "select/15_I_Miss_You_Like_I_Miss_You_Chad_VanGaalen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Miss You",
+      "artist": "DMX feat. Faith Evans",
+      "has_synced": true,
+      "path": "select/16_I_Miss_You_DMX_feat._Faith_Evans.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Miss You (feat. Faith Evans)",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/17_I_Miss_You_(feat._Faith_Evans)_DMX.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Miss My Friend",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/18_I_Miss_My_Friend_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Miss My Friend (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/19_I_Miss_My_Friend_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "When the Party Is Over, I Miss My Dear Porn Star",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/20_When_the_Party_Is_Over,_I_Miss_My_Dear_Porn_Star_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Miss My Dawgs (feat. Reel)",
+      "artist": "Lil Wayne featuring Reel & Reel",
+      "has_synced": true,
+      "path": "select/21_I_Miss_My_Dawgs_(feat._Reel)_Lil_Wayne_featuring_Reel_&_Reel.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Miss My Dawgs (feat. Reel)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/22_I_Miss_My_Dawgs_(feat._Reel)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Miss That Bitch",
+      "artist": "Snoop Dogg feat. E-White",
+      "has_synced": true,
+      "path": "select/23_I_Miss_That_Bitch_Snoop_Dogg_feat._E-White.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Miss That Bitch (feat. E-White)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/24_I_Miss_That_Bitch_(feat._E-White)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Part That I Miss",
+      "artist": "Cock Robin",
+      "has_synced": false,
+      "path": "select/25_The_Part_That_I_Miss_Cock_Robin.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 The part that I miss",
+      "artist": "Cock Robin",
+      "has_synced": false,
+      "path": "select/26_Cock_Robin_\u0000_The_part_that_I_miss_Cock_Robin.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "That Kiss I Miss",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/27_That_Kiss_I_Miss_Kate_Ryan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Miss You",
+      "artist": "BLINK-182",
+      "has_synced": false,
+      "path": "select/pl_01_I_Miss_You_BLINK-182.txt"
+    }
+  ]
+}
